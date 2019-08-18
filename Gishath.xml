@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Encounter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <enList>
+    <MonsterDB>
+      <nameStr>Gishath, Sun's Avatar</nameStr>
+      <noteStr>Big Dino</noteStr>
+      <xp>5900</xp>
+      <count>1</count>
+      <cr>10</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.75</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.75</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.75</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.75</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.75</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.75</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.75</cr>
+    </MonsterDB>
+  </enList>
+  <lvl>5</lvl>
+  <pCount>5</pCount>
+</Encounter>

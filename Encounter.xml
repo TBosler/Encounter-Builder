@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Encounter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <enList>
+    <MonsterDB>
+      <nameStr>Dino1</nameStr>
+      <noteStr>This Dino</noteStr>
+      <xp>123</xp>
+      <count>1</count>
+      <cr>0.25</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <nameStr>dino2</nameStr>
+      <noteStr>That Dino</noteStr>
+      <xp>123</xp>
+      <count>2</count>
+      <cr>4</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0</cr>
+    </MonsterDB>
+  </enList>
+  <lvl>4</lvl>
+  <pCount>2</pCount>
+</Encounter>

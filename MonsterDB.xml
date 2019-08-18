@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMonsterDB xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MonsterDB>
+    <nameStr>Gishath, Sun's Avatar</nameStr>
+    <noteStr> </noteStr>
+    <xp>5900</xp>
+    <count>0</count>
+    <cr>10</cr>
+  </MonsterDB>
+</ArrayOfMonsterDB>
