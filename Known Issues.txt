@@ -1,0 +1,34 @@
+BUGS:
+	SEARCH FUCNTION:
+	Can't select first Item of the list.
+	Have to reload the list to get the new values.
+
+	LOAD FUNCTION:
+	xp sets to 0 when loading encounter. 
+	CR is set to 3/4 on load.
+
+	RESIZE:
+	Bottom line doesnt stary together
+	Bottom can be removed from view
+	
+FEATURES:
+	RANKING:
+	Color code the ranking output
+	
+	PLAYER INFO:
+	Add allowance for more player levels
+	
+	MONSTER INFO:
+	Allow for variable number of monsters
+	
+	UI:
+	Clean-up UI 
+	Color Changes
+	Clarify lines
+	
+	IO:
+	open file dialog box 
+	drop need for .xml
+	
+	GENERAL:
+	be able to exit the program
