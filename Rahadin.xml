@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Encounter xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <enList>
+    <MonsterDB>
+      <nameStr>Rahadin</nameStr>
+      <noteStr>Rahadin, Chamberlain to Strahd</noteStr>
+      <xp>5900</xp>
+      <count>1</count>
+      <cr>10</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <nameStr>Shadow</nameStr>
+      <noteStr />
+      <xp>100</xp>
+      <count>6</count>
+      <cr>0.5</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <noteStr />
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.25</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.25</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.25</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.25</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.25</cr>
+    </MonsterDB>
+    <MonsterDB>
+      <xp>0</xp>
+      <count>0</count>
+      <cr>0.25</cr>
+    </MonsterDB>
+  </enList>
+  <lvl>9</lvl>
+  <pCount>6</pCount>
+</Encounter>

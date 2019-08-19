@@ -2,9 +2,30 @@
 <ArrayOfMonsterDB xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <MonsterDB>
     <nameStr>Gishath, Sun's Avatar</nameStr>
+    <noteStr />
+    <xp>5900</xp>
+    <count>0</count>
+    <cr>10</cr>
+  </MonsterDB>
+  <MonsterDB>
+    <nameStr>Rahadin</nameStr>
     <noteStr> </noteStr>
     <xp>5900</xp>
     <count>0</count>
     <cr>10</cr>
+  </MonsterDB>
+  <MonsterDB>
+    <nameStr>Strahd Zombie</nameStr>
+    <noteStr> </noteStr>
+    <xp>200</xp>
+    <count>0</count>
+    <cr>1</cr>
+  </MonsterDB>
+  <MonsterDB>
+    <nameStr>Shadow</nameStr>
+    <noteStr> </noteStr>
+    <xp>100</xp>
+    <count>0</count>
+    <cr>0.5</cr>
   </MonsterDB>
 </ArrayOfMonsterDB>
