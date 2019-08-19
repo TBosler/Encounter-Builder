@@ -2,9 +2,23 @@
 <ArrayOfMonsterDB xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <MonsterDB>
     <nameStr>Gishath, Sun's Avatar</nameStr>
-    <noteStr> </noteStr>
+    <noteStr />
     <xp>5900</xp>
     <count>0</count>
     <cr>10</cr>
+  </MonsterDB>
+  <MonsterDB>
+    <nameStr>Elder DinoSaur</nameStr>
+    <noteStr />
+    <xp>15000</xp>
+    <count>0</count>
+    <cr>0.25</cr>
+  </MonsterDB>
+  <MonsterDB>
+    <nameStr>Frilled DeathSpitter</nameStr>
+    <noteStr> </noteStr>
+    <xp>100</xp>
+    <count>0</count>
+    <cr>0.5</cr>
   </MonsterDB>
 </ArrayOfMonsterDB>
