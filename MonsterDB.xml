@@ -8,6 +8,13 @@
     <cr>10</cr>
   </MonsterDB>
   <MonsterDB>
+    <nameStr>Rahadin</nameStr>
+    <noteStr> </noteStr>
+    <xp>5900</xp>
+    <count>0</count>
+    <cr>10</cr>
+  </MonsterDB>
+  <MonsterDB>
     <nameStr>Elder DinoSaur</nameStr>
     <noteStr />
     <xp>15000</xp>
@@ -15,7 +22,14 @@
     <cr>0.25</cr>
   </MonsterDB>
   <MonsterDB>
-    <nameStr>Frilled DeathSpitter</nameStr>
+    <nameStr>Strahd Zombie</nameStr>
+    <noteStr> </noteStr>
+    <xp>200</xp>
+    <count>0</count>
+    <cr>1</cr>
+  </MonsterDB>
+  <MonsterDB>
+    <nameStr>Shadow</nameStr>
     <noteStr> </noteStr>
     <xp>100</xp>
     <count>0</count>
