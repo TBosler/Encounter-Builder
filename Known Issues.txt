@@ -20,6 +20,8 @@ FEATURES:
 	
 	MONSTER INFO:
 	Allow for variable number of monsters
+	chance mulitplier count to be based on cr
+	add multiplier based on group size
 	
 	UI:
 	Clean-up UI 
