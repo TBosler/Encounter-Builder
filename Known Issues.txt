@@ -20,8 +20,6 @@ FEATURES:
 	
 	MONSTER INFO:
 	Allow for variable number of monsters
-	chance mulitplier count to be based on cr
-	add multiplier based on group size
 	
 	UI:
 	Clean-up UI 
@@ -31,6 +29,8 @@ FEATURES:
 	IO:
 	open file dialog box 
 	drop need for .xml
+	Drop my DB use 5e.tools
+
 	
 	GENERAL:
 	be able to exit the program
